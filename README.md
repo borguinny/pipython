@@ -3,11 +3,13 @@
 ### Definição dos Dados:
 
 - Nome
-- Gênero
+- Data de Nascimento
 - Telefone
 - Endereço
 - Bairro
-- Data de Nascimento
+- Gênero
+
+
 
 ### Definir perguntas feitas aos Dados(quais informações?)
 
