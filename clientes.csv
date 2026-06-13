@@ -1,4 +1,3 @@
-Nome,Data de Nascimento,Telefone,Endereço,Bairro,Gênero
 Ana Paula Silveira,14/03/1985,(51) 99823-4512,"Rua Mostardeiro - 342",Moinhos de Vento,Feminino
 Carlos Eduardo Menezes,22/07/1990,(51) 98734-2201,"Av. Ipiranga - 1200",Azenha,Masculino
 Fernanda Rocha Lima,05/11/1978,(51) 99512-3387,"Rua Felipe de Oliveira - 88",Petrópolis,Feminino
@@ -44,7 +43,7 @@ Eduardo Assis Bueno,28/06/1973,(51) 98263-7756,"Rua José de Alencar - 480",Meni
 Sandra Krause Müller,07/02/1987,(51) 99431-5589,"Av. Nilo Peçanha - 1120",Boa Vista,Feminino
 Jonatan Silveira Kern,23/08/1993,(51) 98674-2231,"Rua Garibaldi - 820",Bom Fim,Masculino
 Amanda Pfeifer Scherer,11/05/1996,(51) 99562-7743,"Av. Ipiranga - 4820",Partenon,Feminino
-Tiago Brum Gonçalves,03/01/1985,(51) 98341-9965,"Rua Ernesto Alves - 910",Floresta,Masculino
+Regina Brum Gonçalves,03/01/1985,(51) 98341-9965,"Rua Ernesto Alves - 910",Floresta,Feminino
 Cláudia Saraiva Bastos,18/10/1979,(51) 99287-3312,"Av. Cavalhada - 2580",Cavalhada,Feminino
 Murilo Figueira Stoll,27/04/1992,(51) 98712-5576,"Rua Vasco da Gama - 1230",Passo da Areia,Masculino
 Karina Weiss Dorneles,06/09/1988,(51) 99843-6687,"Av. Assis Brasil - 3500",Passo da Areia,Feminino
@@ -98,3 +97,4 @@ Júlio Fetter Macedo,10/07/1983,(51) 98651-7787,"Rua Sarmento Leite - 315",Centr
 Cibele Wommer Arnt,06/04/1990,(51) 99382-5545,"Av. Ipiranga - 3100",Partenon,Feminino
 Kelvin Alves Porto,24/10/1996,(51) 98234-3367,"Rua Álvares Cabral - 730",Cidade Baixa,Masculino
 Joana Fróes Amaral,03/08/1973,(51) 99741-6689,"Av. Cavalhada - 810",Cavalhada,Feminino
+Manoel Silveira Pinto,12/05/1987,(51) 99966-7412,"Av. João Wallig - 687", Passo Da Areia, Masculino

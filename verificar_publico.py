@@ -4,9 +4,18 @@ registros = arquivo_clientes.readlines()
 
 arquivo_clientes.close()
 
+homens = 0
+mulheres = 0
 
 for registro in registros:
     nome, data_nascimento, telefone, endereco, bairro, genero = registro.strip().split(",")
+
+    genero = genero.strip().upper()
+
+    if genero in ["MASCULINO"]:
+        homens += 1
+    elif genero in ["FEMININO"]:
+        mulheres += 1
 
     print(f"{nome}")
     print(f"Data Nascimento:{data_nascimento}")
@@ -14,3 +23,6 @@ for registro in registros:
     print(f"End:{endereco} - Bairro: {bairro}")
     print(f"Gênero:{genero}")
     print("-------------------------------------------")
+
+print(f"Total de Homens: {homens}")
+print(f"Total de Mulheres: {mulheres}")
