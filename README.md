@@ -15,7 +15,6 @@
 
 - Quem são meus clientes?
 - Qual meu maior público? H x M?
-- Qual a faixa etária dos meus clientes?
 - Quantos clientes eu tenho?
 - Qual bairro tenho mais clientes?
 
