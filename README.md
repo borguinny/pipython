@@ -22,6 +22,5 @@
 
 - listar_contato() Pesquisa cliente por telefone, e mostra todos os dados do cliente
 - maior_público() Lista clientes por gênero
-- faixa_etária() Lista a idade entre X e Y
 - listar_clientes() Lista todos os clientes 
 - listar_bairro() Lista a quantidade de clientes por Bairro
