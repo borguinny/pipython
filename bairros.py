@@ -10,9 +10,9 @@ contagem_bairros = {}
 for registro in registros:     
     nome, data_nascimento, telefone, endereco, bairro, genero = registro.strip().split(",")
 
-    bairro = bairro.strip()
+    bairro_limpo = bairro.strip()
     
-    contagem_bairros[bairro] = contagem_bairros.get(bairro, 0) + 1 
+    contagem_bairros[bairro_limpo] = contagem_bairros.get(bairro, 0) + 1 
  
 print("CLIENTES POR BAIRRO")
 for bairro, quantidade in contagem_bairros.items():
