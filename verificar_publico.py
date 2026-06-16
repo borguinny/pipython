@@ -10,11 +10,11 @@ mulheres = 0
 for registro in registros:
     nome, data_nascimento, telefone, endereco, bairro, genero = registro.strip().split(",")
 
-    genero = genero.strip().upper()
+    genero_limpo = genero.strip().upper()
 
-    if genero in ["MASCULINO"]:
+    if genero_limpo in ["MASCULINO"]:
         homens += 1
-    elif genero in ["FEMININO"]:
+    elif genero_limpo in ["FEMININO"]:
         mulheres += 1
 
     print(f"{nome}")
