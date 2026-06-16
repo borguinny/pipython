@@ -4,8 +4,7 @@ registros = arquivo_clientes.readlines()
 
 arquivo_clientes.close()
 
-homens = 0
-mulheres = 0
+
 
 for registro in registros:
     nome, data_nascimento, telefone, endereco, bairro, genero = registro.strip().split(",")
